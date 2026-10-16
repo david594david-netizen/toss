@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Lucky Pick & Grouping Master",
+  "description": "專為教師打造的課堂互動助手：支援 CSV 上傳與名單貼上、具備動態音效的隨機點名抽籤（支援不重複抽取）、卡片式視覺化自動分組工具，以及課堂活動倒數計時器（含鈴聲提醒與投影模式）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
